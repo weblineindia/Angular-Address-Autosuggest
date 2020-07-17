@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of address
+ */
+export * from './lib/address.service';
+export * from './lib/address.component';
+export * from './lib/address.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2FkZHJlc3Mvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHVCQUF1QixDQUFDO0FBQ3RDLGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYyxzQkFBc0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYWRkcmVzc1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2FkZHJlc3Muc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9hZGRyZXNzLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9hZGRyZXNzLm1vZHVsZSc7XG4iXX0=

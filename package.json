@@ -1,0 +1,39 @@
+{
+  "name": "angular-weblineindia-address",
+  "version": "1.0.0",
+  "description": "An AngularJS based Address component which uses Google Maps Places API to autosuggest location address",
+  "author": "weblineindia",
+  "license": "MIT",
+  "repository": "https://github.com/weblineindia/AngularJS-Address-Autosuggest",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "angular-weblineindia-address",
+    "address-autocomplete",
+    "google-maps-places",
+    "angular-components",
+    "angularjs",
+    "angularjs-component",
+    "angular-address-autosuggest",
+    "google-maps-places-api"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^10.0.0",
+    "@angular/core": "^10.0.0",
+    "@fortawesome/angular-fontawesome": "^0.2.1",
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "ngx-google-places-autocomplete": "^2.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/angular-weblineindia-address.umd.js",
+  "module": "fesm2015/angular-weblineindia-address.js",
+  "es2015": "fesm2015/angular-weblineindia-address.js",
+  "esm2015": "esm2015/angular-weblineindia-address.js",
+  "fesm2015": "fesm2015/angular-weblineindia-address.js",
+  "typings": "angular-weblineindia-address.d.ts",
+  "metadata": "angular-weblineindia-address.metadata.json",
+  "sideEffects": false
+}
